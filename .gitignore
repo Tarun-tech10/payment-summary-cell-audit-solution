@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Submission on the task's test set is not part of the repo
+*.csv
